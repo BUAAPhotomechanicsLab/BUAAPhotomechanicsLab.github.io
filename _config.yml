@@ -1,0 +1,15 @@
+future: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+github: academicpages
+url: BUAAPhotomechanicsLab.github.io
+name: BUAA_Photomechanics_Lab
+description: An initial blog and site for your group meeting
+twitter: yourtwitterhandle
+calendar: https://yourcalendarurl
+mailinglist: https://yourmailinglisturl
+gravatar_url: 
+disqus_username:
